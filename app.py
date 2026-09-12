@@ -7,7 +7,7 @@ from datetime import datetime
 # MAHAMI — Streamlit App
 # ============================================================
 
-st.set_page_config(page_title="MAHAMI", page_icon="📋", layout="centered")
+st.set_page_config(page_title="MAHAMI", page_icon="💠", layout="centered")
 
 FILE = "mahami_memory_v2.json"
 
